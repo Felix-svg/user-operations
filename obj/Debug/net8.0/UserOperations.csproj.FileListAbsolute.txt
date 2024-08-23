@@ -1,0 +1,14 @@
+D:\Development\UserOperations\obj\Debug\net8.0\UserOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\UserOperations\obj\Debug\net8.0\UserOperations.AssemblyInfoInputs.cache
+D:\Development\UserOperations\obj\Debug\net8.0\UserOperations.AssemblyInfo.cs
+D:\Development\UserOperations\obj\Debug\net8.0\UserOperations.csproj.CoreCompileInputs.cache
+D:\Development\UserOperations\bin\Debug\net8.0\UserOperations.exe
+D:\Development\UserOperations\bin\Debug\net8.0\UserOperations.deps.json
+D:\Development\UserOperations\bin\Debug\net8.0\UserOperations.runtimeconfig.json
+D:\Development\UserOperations\bin\Debug\net8.0\UserOperations.dll
+D:\Development\UserOperations\bin\Debug\net8.0\UserOperations.pdb
+D:\Development\UserOperations\obj\Debug\net8.0\UserOperations.dll
+D:\Development\UserOperations\obj\Debug\net8.0\refint\UserOperations.dll
+D:\Development\UserOperations\obj\Debug\net8.0\UserOperations.pdb
+D:\Development\UserOperations\obj\Debug\net8.0\UserOperations.genruntimeconfig.cache
+D:\Development\UserOperations\obj\Debug\net8.0\ref\UserOperations.dll
